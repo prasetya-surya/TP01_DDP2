@@ -101,6 +101,7 @@ public class TP01{
                             break;
                         }
                     }
+                    break;
 
                 case 2:
                     while (true) {
@@ -160,6 +161,7 @@ public class TP01{
                             break;
                         }
                     }
+                    break;
                 case 3:
                     break;
                 case 4:
